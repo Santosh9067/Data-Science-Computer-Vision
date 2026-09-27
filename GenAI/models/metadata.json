@@ -1,0 +1,18 @@
+{
+  "target_column": "churn",
+  "feature_columns": [
+    "tenure_months",
+    "monthly_charges",
+    "total_charges",
+    "contract_type",
+    "payment_method",
+    "internet_service",
+    "support_tickets",
+    "senior_citizen"
+  ],
+  "dropped_columns": [
+    "customer_id"
+  ],
+  "model_path": "churn_model.joblib",
+  "random_state": 42
+}

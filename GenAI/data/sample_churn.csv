@@ -1,0 +1,21 @@
+customer_id,tenure_months,monthly_charges,total_charges,contract_type,payment_method,internet_service,support_tickets,senior_citizen,churn
+C001,2,79.85,159.7,Month-to-month,Electronic check,Fiber optic,4,0,1
+C002,24,64.20,1540.8,One year,Bank transfer,DSL,1,0,0
+C003,6,95.10,570.6,Month-to-month,Electronic check,Fiber optic,3,1,1
+C004,48,55.00,2640.0,Two year,Credit card,DSL,0,0,0
+C005,12,89.40,1072.8,Month-to-month,Mailed check,Fiber optic,2,0,1
+C006,36,70.50,2538.0,One year,Bank transfer,DSL,1,1,0
+C007,3,45.00,135.0,Month-to-month,Mailed check,No,0,0,0
+C008,60,110.25,6615.0,Two year,Credit card,Fiber optic,0,0,0
+C009,9,82.75,744.75,Month-to-month,Electronic check,Fiber optic,5,1,1
+C010,18,58.90,1060.2,One year,Credit card,DSL,2,0,0
+C011,30,99.00,2970.0,Month-to-month,Electronic check,Fiber optic,3,0,1
+C012,72,49.95,3596.4,Two year,Bank transfer,No,0,0,0
+C013,5,68.40,342.0,Month-to-month,Electronic check,DSL,2,0,1
+C014,42,75.30,3162.6,One year,Credit card,Fiber optic,1,1,0
+C015,15,102.80,1542.0,Month-to-month,Mailed check,Fiber optic,4,1,1
+C016,54,62.15,3356.1,Two year,Bank transfer,DSL,0,0,0
+C017,8,88.60,708.8,Month-to-month,Electronic check,Fiber optic,2,0,1
+C018,27,57.25,1545.75,One year,Credit card,DSL,1,0,0
+C019,4,73.10,292.4,Month-to-month,Electronic check,DSL,3,1,1
+C020,66,52.80,3484.8,Two year,Bank transfer,No,0,0,0
